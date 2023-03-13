@@ -5,7 +5,7 @@ function Footer() {
 
                 <div className="container navbar-nav">
                     <div className="footer-copyright text-center py-3">
-                        <a className="nav-link" href="https://github.com/OleksiiMaslak/notes"> 2023 © Oleksii Maslak</a>
+                        <a className="nav-link" href="https://github.com/OleksiiMaslak"> 2023 © Oleksii Maslak</a>
                     </div>
                 </div>
             </footer>
